@@ -113,6 +113,8 @@ python track.py subject_001 val
 
 Boxes are in pixel coordinates `[x0, y0, x1, y1]`.
 
+![Tracking Demo](examples/output.gif)
+
 ---
 
 ## How It Works
