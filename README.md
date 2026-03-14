@@ -84,7 +84,7 @@ Bounding boxes are in normalized coordinates `[0, 1]`.
 ## Usage
 
 ```bash
-python track.py <subject_id> <split>
+python main.py <subject_id> <split>
 ```
 
 **Arguments:**
